@@ -1,4 +1,4 @@
-# importing matplotlib module
+# Importing matplotlib module
 from matplotlib import pyplot as plt
 
 
